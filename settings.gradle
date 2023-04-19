@@ -1,0 +1,4 @@
+rootProject.name = 'brigadier'
+enableFeaturePreview('STABLE_PUBLISHING')
+
+"sentence.exe"
